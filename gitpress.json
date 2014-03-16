@@ -1,7 +1,6 @@
 {
     "docs"      : ["posts"],
     "template"    : "default",
-    "domain_alias" :  ["blog.lshgdut.gitpress.org"],    
     "perpage"   : 10,
     "order"  : "number",
     "types"     : {
